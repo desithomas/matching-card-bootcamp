@@ -4,7 +4,8 @@ Crystal Tokyo is in trouble! Queen Nehelenia has captured the Sailor Scouts and 
 
 Please help free the Sailor Scouts! In the name of the Moon, we beg you!
 
-<img src="../assets/game-start.png" alt="image of the game before the player has started playing">
+<img width="2532" height="1408" alt="Screenshot 2026-10-07 at 12 49 34 AM" src="https://github.com/user-attachments/assets/3635656c-0fb4-4842-a79a-16d6c07ac834" /><img width="2335" height="1401" alt="Screenshot 2026-10-07 at 12 48 24 AM" src="https://github.com/user-attachments/assets/34da63a6-2a6b-4970-a051-3ad0930100c5" />
+
 
 
 How To Play the Game: 
@@ -13,4 +14,3 @@ Please fork and clone the github repo.
 
 After the repo has been cloned on your machine, please right click on the index.html and click open in browser. 
 
-<img src="../assets/game-win.png" alt="image of the game once the player has won">
