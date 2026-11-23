@@ -19,6 +19,8 @@ Please help free the Sailor Scouts! In the name of the Moon, we beg you!
 
 <img width="2335" height="1401" alt="Screenshot 2026-10-07 at 12 48 24 AM" src="https://github.com/user-attachments/assets/34da63a6-2a6b-4970-a051-3ad0930100c5" />
 
+## View on Website: 
+https://sailormooncardgame.netlify.app/
 
 ## **How to Play:**
 
